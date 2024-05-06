@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-This module contains an asynchronous coroutine named wait_random.
+This module contains an asynchronous coroutine named wait_random..
 """
 
 import asyncio
